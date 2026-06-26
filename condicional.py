@@ -8,4 +8,4 @@ elif media >= 3 or media >= 7:
     print("Recuperação")
 
 else:
-    print("Reprovado")
+    print("Reprovado") 
